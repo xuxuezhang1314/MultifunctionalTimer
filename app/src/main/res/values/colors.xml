@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主色调 -->
+    <color name="primary">#4A80F0</color>
+    <color name="primary_light">#E8F0FE</color>
+    <color name="primary_dark">#3A6FD9</color>
+    
+    <!-- 背景色 -->
+    <color name="background">#F8F9FA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="card_background">#FFFFFF</color>
+    
+    <!-- 文字颜色 -->
+    <color name="text_primary">#1A1E2B</color>
+    <color name="text_secondary">#7C829C</color>
+    <color name="text_hint">#B5BAC9</color>
+    
+    <!-- 分割线/边框 -->
+    <color name="divider">#E5E9F0</color>
+    <color name="border">#E5E9F0</color>
+    
+    <!-- 功能色 -->
+    <color name="success">#4CAF50</color>
+    <color name="error">#F44336</color>
+    <color name="warning">#FF9800</color>
+    
+    <!-- 按钮背景 -->
+    <color name="button_primary">#4A80F0</color>
+    <color name="button_secondary">#F0F2F6</color>
+    <color name="button_preset">#E8F0FE</color>
+</resources>
