@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">多功能计时器</string>
+    <string name="title_timer">计时器</string>
+    <string name="title_alarm">闹钟</string>
+    <string name="title_worldclock">世界时钟</string>
+    <string name="title_calendar">日历</string>
+</resources>
